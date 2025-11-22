@@ -291,7 +291,7 @@ git push -u origin main
 6. **Add Environment Variables:**
    ```
    DATABASE_URL = postgresql://your-neon-connection-string
-   NODE_ENV = production
+   Environment = Production, Preview, Development
    ```
 7. Click **"Deploy"**
 8. Wait 1-2 minutes ⏱️
